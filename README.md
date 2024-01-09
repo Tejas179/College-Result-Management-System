@@ -1,4 +1,4 @@
-**College Result Management System**
+#College Result Management System
 This College Result Management is a Software Which is beneficial for administrator or Staff of the college who are
 facing the problems that is if the student want more information about their courses ,the admin can’t be able to
 provide that. Because of the the data can’t be accessed accurately. Peoples are changing them and improved
