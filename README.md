@@ -15,9 +15,9 @@ applications. Programs developed in Visual Basic will only run on a Windows
 Operating System., where visual basic programming language is used to create the GUI 
 (Graphical User Interface) with which the end user get interact to control the activities 
 of the software
-<p align="center">
+
 ![image](https://github.com/Tejas179/College-Result-Management-System/assets/90709239/a162e019-3ba5-494c-b6c7-83767ab6eab8)
-</p>
+
 The College result management system aims at helping Administrator to 
 maintain the results of the students. The College result management system features 
 use of DBMS system to improve services. In this project calculate the particular student 
