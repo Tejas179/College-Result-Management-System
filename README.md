@@ -1,4 +1,7 @@
-#College Result Management System
+<p align="center">
+  College Result Management System
+</p>
+
 This College Result Management is a Software Which is beneficial for administrator or Staff of the college who are
 facing the problems that is if the student want more information about their courses ,the admin can’t be able to
 provide that. Because of the the data can’t be accessed accurately. Peoples are changing them and improved
@@ -12,9 +15,9 @@ applications. Programs developed in Visual Basic will only run on a Windows
 Operating System., where visual basic programming language is used to create the GUI 
 (Graphical User Interface) with which the end user get interact to control the activities 
 of the software
-
+<p align="center">
 ![image](https://github.com/Tejas179/College-Result-Management-System/assets/90709239/a162e019-3ba5-494c-b6c7-83767ab6eab8)
-
+</p>
 The College result management system aims at helping Administrator to 
 maintain the results of the students. The College result management system features 
 use of DBMS system to improve services. In this project calculate the particular student 
@@ -24,6 +27,7 @@ department details also.
 
 ![image](https://github.com/Tejas179/College-Result-Management-System/assets/90709239/de99359c-a6dd-4516-8c70-c601b4b6cb03)
 
-![image](https://github.com/Tejas179/College-Result-Management-System/assets/90709239/2aecedfb-7fda-4175-b301-c28757d125d6)
+![image](https://github.com/Tejas179/College-Result-Management-System/assets/90709239/32db046b-e2fe-41ed-b492-4b6116c4289f)
+
 
 
